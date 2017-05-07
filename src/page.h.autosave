@@ -1,0 +1,16 @@
+#ifndef _BOOK_PAGE_H_
+#define _BOOK_PAGE_H_
+
+namespace book_rd{
+    class Page{
+    public:
+        Page();
+
+
+    private:
+
+        
+    };
+}
+
+#endif
